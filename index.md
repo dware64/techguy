@@ -1,7 +1,7 @@
-title: Welcome to Mr. Ware's homepage!
-description: Feel free to bookmark this to keep an eye on my project updates!
+title:  Mr. Ware's homepage!
+description:
 
-## Darol Ware
+##
 
 You can use the [editor on GitHub](https://github.com/dware64/techguy/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
