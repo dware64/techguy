@@ -1,4 +1,4 @@
-title:  Mr. Ware's homepage!
+title:Mr. Ware's homepage!
 description:
 
 ##
